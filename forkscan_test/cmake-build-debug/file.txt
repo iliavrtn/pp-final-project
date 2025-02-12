@@ -1,0 +1,108 @@
+[MAIN] Using 2 threads, each runs for 5 seconds, array populated with 1024 elements, key range 2048...
+[MAIN] Throughput: 8945331.400000 ops/sec
+=========================================================
+
+statm: 161542 2624 480 1 0 144504 0
+fork-count: 0
+scan-max: 0
+ave-fork-time: 0
+wait-time: 0
+[MAIN] Using 4 threads, each runs for 5 seconds, array populated with 1024 elements, key range 2048...
+[MAIN] Throughput: 9967984.400000 ops/sec
+=========================================================
+
+statm: 161542 2624 480 1 0 144504 0
+fork-count: 0
+scan-max: 0
+ave-fork-time: 0
+wait-time: 0
+[MAIN] Using 8 threads, each runs for 5 seconds, array populated with 1024 elements, key range 2048...
+[MAIN] Throughput: 7478903.800000 ops/sec
+=========================================================
+
+statm: 161566 2656 512 1 0 144504 0
+fork-count: 0
+scan-max: 0
+ave-fork-time: 0
+wait-time: 0
+[MAIN] Using 16 threads, each runs for 5 seconds, array populated with 1024 elements, key range 2048...
+[MAIN] Throughput: 7381386.400000 ops/sec
+=========================================================
+
+statm: 161590 2688 512 1 0 144504 0
+fork-count: 0
+scan-max: 0
+ave-fork-time: 0
+wait-time: 0
+[MAIN] Using 32 threads, each runs for 5 seconds, array populated with 1024 elements, key range 2048...
+[MAIN] Throughput: 6641830.200000 ops/sec
+=========================================================
+
+statm: 169830 2752 544 1 0 152696 0
+fork-count: 0
+scan-max: 0
+ave-fork-time: 0
+wait-time: 0
+[MAIN] Using 64 threads, each runs for 5 seconds, array populated with 1024 elements, key range 2048...
+[MAIN] Throughput: 7026260.000000 ops/sec
+=========================================================
+
+statm: 186310 2784 544 1 0 169080 0
+fork-count: 0
+scan-max: 0
+ave-fork-time: 0
+wait-time: 0
+[MAIN] Using 2 threads, each runs for 5 seconds, array populated with 131072 elements, key range 262144...
+[MAIN] Throughput: 585342.200000 ops/sec
+=========================================================
+
+statm: 168215 2944 544 1 0 148608 0
+fork-count: 47
+scan-max: 562843648
+ave-fork-time: 16
+wait-time: 306
+[MAIN] Using 4 threads, each runs for 5 seconds, array populated with 131072 elements, key range 262144...
+[MAIN] Throughput: 515517.800000 ops/sec
+=========================================================
+
+statm: 165137 2912 512 1 0 145530 0
+fork-count: 36
+scan-max: 566616064
+ave-fork-time: 24
+wait-time: 1291
+[MAIN] Using 8 threads, each runs for 5 seconds, array populated with 131072 elements, key range 262144...
+[MAIN] Throughput: 763347.000000 ops/sec
+=========================================================
+
+statm: 165675 2944 544 1 0 145530 0
+fork-count: 26
+scan-max: 575107072
+ave-fork-time: 45
+wait-time: 1930
+[MAIN] Using 16 threads, each runs for 5 seconds, array populated with 131072 elements, key range 262144...
+[MAIN] Throughput: 704191.400000 ops/sec
+=========================================================
+
+statm: 164672 3008 576 1 0 145017 0
+fork-count: 17
+scan-max: 592224256
+ave-fork-time: 99
+wait-time: 7792
+[MAIN] Using 32 threads, each runs for 5 seconds, array populated with 131072 elements, key range 262144...
+[MAIN] Throughput: 1188036.800000 ops/sec
+=========================================================
+
+statm: 173425 3136 640 1 0 153722 0
+fork-count: 10
+scan-max: 626188288
+ave-fork-time: 151
+wait-time: 10798
+[MAIN] Using 64 threads, each runs for 5 seconds, array populated with 131072 elements, key range 262144...
+[MAIN] Throughput: 617334.200000 ops/sec
+=========================================================
+
+statm: 191448 3456 864 1 0 169593 0
+fork-count: 8
+scan-max: 692629504
+ave-fork-time: 238
+wait-time: 11331

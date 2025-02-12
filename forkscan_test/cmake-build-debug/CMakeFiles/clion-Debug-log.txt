@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/314/bin/ninja/linux/x64/ninja -DCMAKE_C_COMPILER=/usr/bin/gcc -G Ninja -S /home/ivorotyntsev/CLionProjects/forkscan_test -B /home/ivorotyntsev/CLionProjects/forkscan_test/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ivorotyntsev/CLionProjects/forkscan_test/cmake-build-debug
